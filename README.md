@@ -1,5 +1,5 @@
-### Hi there 👋
+## Hi there 👋
 
 ## About Me 🙋‍♂️
 
-Junior frontend developer based in Poland💻
+## Junior frontend developer based in Poland💻
