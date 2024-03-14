@@ -1,4 +1,5 @@
 ### Hi there 👋
 
 About Me 🙋‍♂️
-## Junior frontend developer based in Poland💻
+## Frontend developer based in Poland💻
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nurmukhamed7)](https://github.com/Nurmukhamed7/github-readme-stats)
