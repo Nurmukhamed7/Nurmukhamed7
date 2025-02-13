@@ -4,4 +4,5 @@ I am passionate about full-stack development, with commercial experience in both
 
 I hold a Temporary Residence Permit (Karta Pobytu) with work authorization in Poland, valid until 2027.
 
-![LeetCode Stats](https://leetcode.card.workers.dev/nurmukhamed7?theme=auto&font=source_code_pro&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Nurmukhamed7?theme=light&font=Play)
+
